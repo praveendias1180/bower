@@ -1,0 +1,17 @@
+{
+  "name": "bower",
+  "authors": [
+    "Praveen Dias <praveendias1180@gmail.com>"
+  ],
+  "description": "a test bower json file",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://praveendias1180.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
