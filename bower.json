@@ -15,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "masonry-layout": "desandro/masonry#^4.2.2"
   }
 }
